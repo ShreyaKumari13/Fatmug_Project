@@ -1,4 +1,4 @@
-# Fatmug_Django_Assignment
+# Fatmug Assignment
  This is django assignment for backend developer position at Fatmug.
 
  This project is a web application that allows users to upload videos, automatically extract subtitles, and provide a searchable interface for the video content.
@@ -23,7 +23,7 @@ Setup
 
 1) Clone the repository:
 ```
-git clone https://github.com/YasinMakandar/Fatmug_Django_Assignment.git
+git clone https://github.com/ShreyaKumari14/Fatmug-Project.git
 cd video_project
 
 ```
